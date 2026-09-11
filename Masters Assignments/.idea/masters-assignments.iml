@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.system.id="pyproject.toml" type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/Masters Assignments">
+      <excludeFolder url="file://$MODULE_DIR$/Masters Assignments/.venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="D:\CUZ Masters\Python Programming\python-for-masters\Masters Assignments\Masters Assignments\.venv" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
